@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImFelippe365
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning React Native & ReactJS
-- 💞️ I’m looking to collaborate on Research Projects in my Institution 
+- 💞️ I’m looking to collaborate on projects related to web or mobile development
 - 📫 How to reach me: My Discord is ImFelippe365#2814
 
 <!---
