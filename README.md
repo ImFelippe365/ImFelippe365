@@ -1,4 +1,4 @@
-## **Felippe Rian**
+# Felippe Rian
 Sou desenvolvedor front-end, me considero desenvolvedor júnior. No momento estou trabalhando e cursando A.D.S no IFRN. 
 
 ### ⭐ Interesses
