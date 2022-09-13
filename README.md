@@ -18,7 +18,8 @@ Pretendo me especializar em outras tecnologias, porém no momento domino as segu
 - ReactJS
 - React Native (with Expo)
 - JavaScript/**TypeScript** (fav)
-- CSS/SCSS
+- CSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="20" width="20"/> SCSS
 - Styled Components
 - Tailwind
 
