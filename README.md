@@ -7,8 +7,7 @@ Estou aprendendo o básico de **Back-end**, mas no momento meu forte é direcion
 Particularmente prefiro desenvolver aplicações mobile a desenvolver para a web, mas tenho conhecimento para ambos.
 
 Aprendendo atualmente:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-      
+![NextJS](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)
 
 ### 🖥️ Tecnologias
 Pretendo me especializar em outras tecnologias, porém no momento domino as seguintes:
