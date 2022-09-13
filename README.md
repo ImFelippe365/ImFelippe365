@@ -1,13 +1,12 @@
-## Olá, me chamo **Felippe Rian**, desenvolvedor front-end
-### Bem vindo ao meu perfil do GitHub
-Tenho 19 anos, 
+#### Olá, me chamo **Felippe Rian** 😄
+Sou esenvolvedor front-end, tenho 19 anos, e 
 
-### Interesses
+### ⭐ Interesses
 Gosto muito de tecnologia, meu aprendizado é totalmente direcionado a programação, mas gosto e aprecio muito a área de UX/UI Design.
 Estou aprendendo o básico de **Back-end**, mas no momento meu forte é direcionado ao **Front-end**. 
 Particularmente prefiro desenvolver aplicações mobile a desenvolver para a web, mas tenho conhecimento para ambos.
 
-### Tecnologias
+### 🖥️ Tecnologias
 Pretendo me especializar mais em outras tecnologias, porém no momento domino as seguintes:
 
 - ReactJS
@@ -17,10 +16,10 @@ Pretendo me especializar mais em outras tecnologias, porém no momento domino as
 - Styled Components
 - Tailwind
 
-### Formação Acadêmica
+### 📚 Formação Acadêmica
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Rio Grande do Norte **(IFRN)**.
 Já estudei anteriormente no Instituto Federal da Paraíba **(IFPB)** cursando o **Técnico em Informática** integrado ao Ensino Médio.
 Desenvolvi alguns projetos enquanto cursava o ensino médio para adquirir experiência e colocar em prática minhas habilidades em programação.
 
-### Contato
+### ✉️ Contato
 Para falar comigo, contate pelo discord **ImFelippe365#2814**
