@@ -23,3 +23,6 @@ Desenvolvi alguns projetos enquanto cursava o ensino médio para adquirir experi
 
 ### ✉️ Contato
 Para falar comigo, contate pelo discord **ImFelippe365#2814**
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imfelippe365)](https://github.com/anuraghazra/github-readme-stats)
