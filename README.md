@@ -8,9 +8,7 @@ Particularmente prefiro desenvolver aplicações mobile a desenvolver para a web
 
 Aprendendo atualmente:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="30" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="30" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="30"/> 
 
 ### 🖥️ Tecnologias
 Pretendo me especializar em outras tecnologias, porém no momento domino as seguintes:
@@ -19,7 +17,7 @@ Pretendo me especializar em outras tecnologias, porém no momento domino as segu
 - React Native (with Expo)
 - JavaScript/**TypeScript** (fav)
 - CSS
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="20" width="20"/> SCSS
+- SCSS
 - Styled Components
 - Tailwind
 
