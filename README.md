@@ -8,8 +8,9 @@ Particularmente prefiro desenvolver aplicações mobile a desenvolver para a web
 
 Aprendendo atualmente:
 
+<p align='center'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="40"/> 
-
+</p>
 ### 🖥️ Tecnologias
 Pretendo me especializar em outras tecnologias, porém no momento domino as seguintes:
 
