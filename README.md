@@ -1,8 +1,8 @@
 #### Olá, me chamo **Felippe Rian** 😄
-Sou esenvolvedor front-end, tenho 19 anos, e 
+Sou desenvolvedor front-end, me considero desenvolvedor júnior. No momento estou trabalhando e cursando A.D.S no IFRN. 
 
 ### ⭐ Interesses
-Gosto muito de tecnologia, meu aprendizado é totalmente direcionado a programação, mas gosto e aprecio muito a área de UX/UI Design.
+Gosto muito de tecnologia, meu aprendizado é totalmente direcionado a programação, mas gosto e aprecio muito a área de **UI/UX Design**.
 Estou aprendendo o básico de **Back-end**, mas no momento meu forte é direcionado ao **Front-end**. 
 Particularmente prefiro desenvolver aplicações mobile a desenvolver para a web, mas tenho conhecimento para ambos.
 
@@ -12,7 +12,7 @@ Pretendo me especializar mais em outras tecnologias, porém no momento domino as
 - ReactJS
 - React Native (with Expo)
 - JavaScript/**TypeScript** (fav)
-- CSS/SCSS (SCSS >>>)
+- CSS/SCSS
 - Styled Components
 - Tailwind
 
