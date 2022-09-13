@@ -12,8 +12,7 @@ Pretendo me especializar em outras tecnologias, porém no momento domino as segu
 - ReactJS
 - React Native (with Expo)
 - JavaScript/**TypeScript** (fav)
-- CSS
-- SCSS
+- CSS/SCSS
 - Styled Components
 - Tailwind
 
