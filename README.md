@@ -7,7 +7,7 @@ Estou aprendendo o básico de **Back-end**, mas no momento meu forte é direcion
 Particularmente prefiro desenvolver aplicações mobile a desenvolver para a web, mas tenho conhecimento para ambos.
 
 ### 🖥️ Tecnologias
-Pretendo me especializar mais em outras tecnologias, porém no momento domino as seguintes:
+Pretendo me especializar em outras tecnologias, porém no momento domino as seguintes:
 
 - ReactJS
 - React Native (with Expo)
