@@ -15,6 +15,9 @@ Pretendo me especializar em outras tecnologias, porém no momento domino as segu
 - CSS/SCSS
 - Styled Components
 - Tailwind
+- Next.js
+- Redux
+- Vitejs
 
 ### 📚 Formação Acadêmica
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Rio Grande do Norte **(IFRN)**.
