@@ -16,8 +16,10 @@ Pretendo me especializar em outras tecnologias, porém no momento domino as segu
 - Styled Components
 - Tailwind
 - Next.js
+- Context API
 - Redux
 - Vitejs
+- Leaflet
 
 ### 📚 Formação Acadêmica
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Rio Grande do Norte **(IFRN)**.
