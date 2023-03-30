@@ -38,7 +38,7 @@ Olá mundo! Me chamo Felippe Rian 😄
 
 Estou sempre em busca de aprender, principalmente com meus erros. Além de apreciar aprender, também gosto de compartilhar meu conhecimento. No momento, estou cursando **Técnologo em Análise e Desenvolvimento de Sistemas** no **IFRN - Campus Pau dos Ferros**.
   
-Tenho experiência com desenvolvimento de aplicações móveis e web. _Cheguei a desenvolver API's com NodeJS e Django, mas nada surpreendente_. As principais tecnologias que domino são **TypeScript/JavaScript**, **React**, **Expo**, **Tailwind**, **Styled Components** e **Leaflet**.
+Tenho experiência com desenvolvimento de aplicações móveis e web. _Cheguei a desenvolver API's com NodeJS e Django, mas nada surpreendente_. As principais tecnologias que domino são **TypeScript/JavaScript**, **React**, **Expo**, **Tailwind**, **Styled Components**, **React Hook Forms** e **Leaflet**.
 
 <div align="right" style="margin:auto">
     <a href="https://wakatime.com/@_felipperian">
