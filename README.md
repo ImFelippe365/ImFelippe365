@@ -36,7 +36,7 @@
 
 Olá mundo! Me chamo Felippe Rian 😄
 
-Estou sempre em busca de aprender, principalmente com meus erros. Além de apreciar aprender, também gosto de compartilhar meu conhecimento. No momento, estou cursando Técnologo em Análise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Norte.
+Estou sempre em busca de aprender, principalmente com meus erros. Além de apreciar aprender, também gosto de compartilhar meu conhecimento. No momento, estou cursando **Técnologo em Análise e Desenvolvimento de Sistemas** no **IFRN - Campus Pau dos Ferros**.
   
 Tenho experiência com desenvolvimento de aplicações móveis e web. _Cheguei a desenvolver API's com NodeJS e Django, mas nada surpreendente_. Em outro momento consegui ver um pouco de PHP, Python, C++ e Java. Mas as **principais tecnologias** que domino são **TypeScript/JavaScript**, **React**, **Expo**, **Tailwind**, **Styled Components** e **Leaflet**.
 
@@ -46,7 +46,7 @@ Tenho experiência com desenvolvimento de aplicações móveis e web. _Cheguei a
     </a>
 </div>
 
-Além de desenvolver software, também costumo atuar como **UI/UX Designer**, criando protótipos usando o Figma como ferramenta de prototipação de aplicativos e sites visando a experiência do usuário e a estética do produto. Não é meu principal foco, mas consigo me sair muito bem nessa posição.
+Além de desenvolver softwares, também costumo atuar como **UI/UX Designer**, criando protótipos usando o Figma como ferramenta de prototipação de aplicativos e sites visando a experiência do usuário e a estética do produto. Não é meu principal foco, mas consigo me sair muito bem nessa posição.
 
 Atualmente estou trabalhando como _Desenvolvedor Mobile_ na [Esmenezes](https://esmenezes.com.br). 
     
