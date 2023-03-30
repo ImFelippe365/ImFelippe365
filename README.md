@@ -8,7 +8,7 @@
 
 <blockquote>
     <p><i>
-        Um estudante e desenvolvedor apaixonado pela tecnologia e de tudo que pode ser criada a partir dela. <br />"O melhor código é aquele que nunca foi escrito." - Unknown
+        Um estudante e desenvolvedor apaixonado pela tecnologia e de tudo que pode ser criado a partir dela. <br />"O melhor código é aquele que nunca foi escrito." - Unknown
     </i></p>
 </blockquote>
 </div>
