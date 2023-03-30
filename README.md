@@ -1,33 +1,63 @@
-# Felippe Rian
-Sou desenvolvedor front-end, me considero desenvolvedor júnior. No momento estou trabalhando e cursando A.D.S no IFRN. 
+<h1 align="center"> Felippe Rian </h1>
 
-### ⭐ Interesses
-Gosto muito de tecnologia, meu aprendizado é totalmente direcionado a programação, mas gosto e aprecio muito a área de **UI/UX Design**.
-Estou aprendendo o básico de **Back-end**, mas no momento meu forte é direcionado ao **Front-end**. 
-Particularmente prefiro desenvolver aplicações mobile a desenvolver para a web, mas tenho conhecimento para ambos.
+    
+<div align="center">
+<b> Mobile Developer | Web Developer | UX/UI Designer | 📌</b>
+<br>
+<br>
 
-### 🖥️ Tecnologias
-Pretendo me especializar em outras tecnologias, porém no momento domino as seguintes:
+<blockquote>
+    <p><i>
+        Um estudante e desenvolvedor apaixonado pela tecnologia e de tudo que pode ser criada a partir dela. <br />"O melhor código é aquele que nunca foi escrito." - Unknown
+    </i></p>
+</blockquote>
+</div>
 
-- ReactJS
-- React Native (with Expo)
-- JavaScript/**TypeScript** (fav)
-- CSS/SCSS
-- Styled Components
-- Tailwind
-- Next.js
-- Context API
-- Redux
-- Vitejs
-- Leaflet
+<div align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=_felipperian">
+        <img src="https://img.shields.io/twitter/follow/_felipperian?style=social&logo=twitter"
+        alt="follow on Twitter">
+    </a>
+</div>
 
-### 📚 Formação Acadêmica
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Rio Grande do Norte **(IFRN)**.
-Já estudei anteriormente no Instituto Federal da Paraíba **(IFPB)** cursando o **Técnico em Informática** integrado ao Ensino Médio.
-Desenvolvi alguns projetos enquanto cursava o ensino médio para adquirir experiência e colocar em prática minhas habilidades em programação.
+<details open>
+<summary>Sobre mim 👨🏻‍💻</summary>
 
-### ✉️ Contato
-Para falar comigo, contate pelo discord **ImFelippe365#2814**
+---
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imfelippe365&show_icons=true&theme=dark)
+<div align="right" style="margin:auto">
+     <a href="https://github.com/imfelippe365">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfelippe365&hide=jupyter%20notebook&langs_count=5&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
+       alt="Most used languages" align="right">
+    </a>
+</div>
+
+
+Olá mundo! Me chamo Felippe Rian 😄
+
+Estou sempre em busca de aprender, principalmente com meus erros. Além de apreciar aprender, também gosto de compartilhar meu conhecimento. No momento, estou cursando Técnologo em Análise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Norte.
+  
+Tenho experiência com desenvolvimento de aplicações móveis e web. _Cheguei a desenvolver API's com NodeJS e Django, mas nada surpreendente_. Em outro momento consegui ver um pouco de PHP, Python, C++ e Java. Mas as **principais tecnologias** que domino são **TypeScript/JavaScript**, **React**, **Expo**, **Tailwind**, **Styled Components** e **Leaflet**.
+
+<div align="right" style="margin:auto">
+    <a href="https://wakatime.com/@_felipperian">
+        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=_felipperian&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
+    </a>
+</div>
+
+Além de desenvolver software, também costumo atuar como **UI/UX Designer**, criando protótipos usando o Figma como ferramenta de prototipação de aplicativos e sites visando a experiência do usuário e a estética do produto. Não é meu principal foco, mas consigo me sair muito bem nessa posição.
+
+Atualmente estou trabalhando como _Desenvolvedor Mobile_ na [Esmenezes](https://esmenezes.com.br). 
+    
+</details>
+
+---
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_felipperian)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippe-rian/)
+[![Discord](https://img.shields.io/badge/Discord-%235463EF.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/channels/@ImFelippe365/2814)
+
+</div>
