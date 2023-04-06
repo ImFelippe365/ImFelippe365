@@ -42,7 +42,7 @@ Tenho experiência com desenvolvimento de aplicações móveis e web. _Cheguei a
 
 <div align="right" style="margin:auto">
     <a href="https://wakatime.com/@_felipperian">
-        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=_felipperian&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
+        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=d81bd7da-20de-4add-9d55-d9399b6d1f05&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
     </a>
 </div>
 
