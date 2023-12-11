@@ -13,13 +13,14 @@
 </blockquote>
 </div>
 
+<!--
 <div align="center">
     <a href="https://twitter.com/intent/follow?screen_name=_felipperian">
         <img src="https://img.shields.io/twitter/follow/_felipperian?style=social&logo=twitter"
         alt="follow on Twitter">
     </a>
 </div>
-
+-->
 <details open>
 <summary>Sobre mim 👨🏻‍💻</summary>
 
