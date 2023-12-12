@@ -49,8 +49,8 @@ Tenho experiência com desenvolvimento de aplicações móveis e web. _Cheguei a
 
 Além de desenvolver softwares, também costumo atuar como **UI/UX Designer**, criando protótipos usando o Figma como ferramenta de prototipação de aplicativos e sites visando a experiência do usuário e a estética do produto. Não é meu principal foco, mas consigo me sair muito bem nessa posição.
 
-Atualmente estou buscando novas oportunidades, preferencialmente como _Desenvolvedor Mobile_.
-    
+<!-- Atualmente estou buscando novas oportunidades, preferencialmente como _Desenvolvedor Mobile_. -->
+Atualmente estou trabalhando como desenvolvedor back-end na _SolarZ_.
 </details>
 
 ---
