@@ -57,7 +57,7 @@ Atualmente estou trabalhando como desenvolvedor back-end na _SolarZ_.
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_felipperian)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_felipperian) -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippe-rian/)
 [![Discord](https://img.shields.io/badge/Discord-%235463EF.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/channels/@ImFelippe365/2814)
 
